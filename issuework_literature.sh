@@ -1,3 +1,4 @@
+# assumes that Zotero project name is the same as folder name
 proj_name=$(echo "${PWD##*/}")
 
 echo "MANUAL STEPS REQUIRED!!"

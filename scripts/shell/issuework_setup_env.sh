@@ -6,4 +6,4 @@ conda activate "$env_name"
 pip install -e .
 
 code .
-# clear
+# TODO clear (?)
