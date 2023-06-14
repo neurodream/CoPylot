@@ -1,0 +1,2 @@
+[console_scripts]
+your-package-name = your_package_name:main

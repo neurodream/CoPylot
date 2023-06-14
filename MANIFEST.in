@@ -1,0 +1,2 @@
+recursive-include *.sh
+recursive-include scripts *.sh

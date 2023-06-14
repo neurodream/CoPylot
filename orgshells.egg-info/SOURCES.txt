@@ -1,0 +1,9 @@
+README.md
+setup.py
+orgshells/__init__.py
+orgshells/globals.py
+orgshells.egg-info/PKG-INFO
+orgshells.egg-info/SOURCES.txt
+orgshells.egg-info/dependency_links.txt
+orgshells.egg-info/entry_points.txt
+orgshells.egg-info/top_level.txt

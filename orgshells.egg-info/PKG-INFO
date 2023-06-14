@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: orgshells
+Version: 0.1
+Summary: collection of shell scripts to streamline issue-based, cooperative text/code-centered work
+Home-page: https://github.com/neuro-dream/orgshells
+Author: Nico Adelhöfer
+Author-email: nico.adelhoefer@ru.nl
+License: MIT
+Project-URL: Bug Tracker, https://github.com/neuro-dream/orgshells/issues
+Description-Content-Type: text/markdown
+
+# orgshells
+collection of shell scripts and wiki to streamline issue-based, cooperative text/code-centered work
